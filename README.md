@@ -3,8 +3,7 @@
 # Phase Backend
 **Custom Fortnite private server — made by Silva**
 
-![open source](https://img.shields.io/badge/open%20source-free-7F77DD?style=flat-square)
-![no selling](https://img.shields.io/badge/selling-not%20allowed-EF9F27?style=flat-square&labelColor=633806)
+![paid](https://img.shields.io/badge/paid-yes-7F77DD?style=flat-square)
 ![arena](https://img.shields.io/badge/arena-enabled-1D9E75?style=flat-square)
 
 </div>
@@ -16,7 +15,7 @@
 
 ### ⚠️ Warning
 
-- This backend is **private** — it is **not** for selling.
+- This backend is **private** — do not leak or redistribute it.
 - If you use it, please give credits.
 
 ---
