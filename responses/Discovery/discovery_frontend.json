@@ -1,0 +1,68 @@
+{
+  "Panels": [
+    {
+      "PanelName": "ByEpicWoven",
+      "Pages": [
+        {
+          "results": [
+            {
+              "linkData": {
+                "namespace": "fn",
+                "mnemonic": "playlist_showdownalt_solo",
+                "linkType": "BR:Playlist",
+                "active": true,
+                "disabled": false,
+                "version": 95,
+                "moderationStatus": "Unmoderated",
+                "accountId": "epic",
+                "creatorName": "Epic",
+                "descriptionTags": [],
+                "metadata": {
+                  "image_url": "https://cdn2.unrealengine.com/solo-1920x1080-1920x1080-bc0a5455ce20.jpg",
+                  "matchmaking": {
+                    "override_playlist": "playlist_showdownalt_solo"
+                  },
+                  "title": "Phase Lategame Arena",
+                  "tagline": "Compete in Phase Lategame Arena. Top players earn Hype."
+                }
+              },
+              "lastVisited": null,
+              "linkCode": "playlist_showdownalt_solo",
+              "isFavorite": false
+            },
+            {
+              "linkData": {
+                "namespace": "fn",
+                "mnemonic": "playlist_defaultsolo",
+                "linkType": "BR:Playlist",
+                "active": true,
+                "disabled": false,
+                "version": 95,
+                "moderationStatus": "Unmoderated",
+                "accountId": "epic",
+                "creatorName": "Epic",
+                "descriptionTags": [],
+                "metadata": {
+                  "image_url": "https://cdn2.unrealengine.com/solo-1920x1080-1920x1080-bc0a5455ce20.jpg",
+                  "matchmaking": {
+                    "override_playlist": "playlist_defaultsolo"
+                  },
+                  "title": "Phase Tournaments",
+                  "tagline": "Compete in Phase Tournaments for exclusive prizes."
+                }
+              },
+              "lastVisited": null,
+              "linkCode": "playlist_defaultsolo",
+              "isFavorite": false
+            }
+          ],
+          "hasMore": false
+        }
+      ]
+    }
+  ],
+  "TestCohorts": [
+    "Reload"
+  ],
+  "ModeSets": {}
+}

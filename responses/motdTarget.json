@@ -1,0 +1,68 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+    "contentItems": [
+      {
+        "contentType": "content-item",
+        "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+        "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+        "contentFields": {
+          "body": {
+            "ar": "ن",
+            "en": "",
+            "de": "",
+            "es": "",
+            "es-419": "",
+            "fr": "",
+            "it": "",
+            "ja": "",
+            "ko": "",
+            "pl": "",
+            "pt-BR": "",
+            "ru": "",
+            "tr": ""
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://cdn.discordapp.com/attachments/1475147432454131732/1492413330986631289/Titulo_1.png?ex=69db3db9&is=69d9ec39&hm=1113b39a85ae189bfba4609514ffdd152be27e2abcbf6b9a9da6141ce6bfbde2"
+            }
+          ],
+          "tabTitleOverride": "Phase Backend",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://cdn.discordapp.com/attachments/1475147432454131732/1492413330986631289/Titulo_1.png?ex=69db3db9&is=69d9ec39&hm=1113b39a85ae189bfba4609514ffdd152be27e2abcbf6b9a9da6141ce6bfbde2"
+            }
+          ],
+          "title": {
+            "ar": "مرحبًا بك في Phase!",
+            "en": "Welcome to Phase!",
+            "de": "Willkommen bei Phase!",
+            "es": "¡Bienvenidos a Phase!",
+            "es-419": "¡Bienvenidos a Phase!",
+            "fr": "Bienvenue sur Phase !",
+            "it": "Benvenuto in Phase!",
+            "ja": "Phaseへようこそ！",
+            "ko": "Phase에 오신 것을 환영합니다!",
+            "pl": "Witaj w Phase!",
+            "pt-BR": "Bem-vindo ao Phase!",
+            "ru": "Добро пожаловать в Phase!",
+            "tr": "Phase'a Hoş Geldiniz!"
+          },
+          "videoAutoplay": false,
+          "videoLoop": false,
+          "videoMute": false,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "Mobile OGFN Center Discord",
+          "websiteURL": "https://discord.gg/bqWKJRdE8W"
+        },
+        "contentHash": "Phase",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        }
+    ]
+}
