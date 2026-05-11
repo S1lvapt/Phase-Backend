@@ -12,13 +12,11 @@
 ---
 
 > ⭐ Please leave a star — it helps a lot <3
-> I quit OGFN — don't ask me about it.
-
 ---
 
 ### ⚠️ Warning
 
-- This backend is **public** — it is **not** for selling.
+- This backend is **private** — it is **not** for selling.
 - If you use it, please give credits.
 
 ---
