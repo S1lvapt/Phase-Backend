@@ -19,3 +19,4 @@
 - 👥 **Party system** — accept friend requests, join lobbies (not fully done) and more
 - 🎮 **All game modes** — Battle Royale, Creative, STW and Live Events enabled
 - 🛍️ **Item shop** — bot auto-posts a shop image every time it refreshes
+- 📱 **Mobile Support** - gives acess for people to use android, but still need to modify on routes/main.js to the manifest of the version that their doing
